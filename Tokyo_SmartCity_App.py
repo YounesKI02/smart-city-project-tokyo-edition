@@ -1,5 +1,4 @@
 """
-========================================================
   TOKYO SMART CITY — STREAMLIT DASHBOARD
   Source: Tokyo Statistical Yearbook (2019–2022)
 
@@ -13,11 +12,6 @@
     Part II — Crime Arrest Prediction (Random Forest Classifier)
     Part III— Electricity Demand Regression (Random Forest + GridSearchCV)
 
-  HOW TO RUN:
-    1. Place this file and data_loaders.py in the same folder as your data/ folder
-    2. pip install streamlit pandas matplotlib seaborn scikit-learn statsmodels prophet folium streamlit-folium
-    3. streamlit run Tokyo_SmartCity_App.py
-========================================================
 """
 
 import streamlit as st
