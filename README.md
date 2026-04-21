@@ -1,6 +1,5 @@
 # 🏙 Tokyo Smart City — Data Science Project
 
-> **Inspired by the NY Smart City project structure**  
 > Data: Tokyo Statistical Yearbook (2019–2022)  
 > Domains: Air Quality · Electricity · Crime · Traffic
 
