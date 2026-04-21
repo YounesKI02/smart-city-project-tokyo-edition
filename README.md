@@ -10,7 +10,7 @@
 ```
 Tokyo_SmartCity/
 │
-├── data/                                          ← Place all CSV files here
+├── data/                                         
 │   ├── Air_Pollutant_Measurement_Averages_22.csv
 │   ├── Criminal_Offenses_..._19/20/21/22.csv
 │   ├── Electricity_Demand_19/20/21/22.csv
