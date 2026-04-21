@@ -3,7 +3,7 @@
   TOKYO SMART CITY — STREAMLIT DASHBOARD
   Source: Tokyo Statistical Yearbook (2019–2022)
 
-  Structure (mirrors NY Smart City project):
+  Structure:
     Part I  — Air Quality & Electricity Analysis
     Part II — Crime Analysis
     Part III— Traffic & Urban Mobility Analysis
