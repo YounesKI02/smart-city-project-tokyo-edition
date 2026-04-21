@@ -24,25 +24,6 @@ Tokyo_SmartCity/
 
 ---
 
-## 🚀 How to Run
-
-### 1. Install dependencies
-```bash
-pip install streamlit pandas numpy matplotlib seaborn scikit-learn \
-            statsmodels prophet folium streamlit-folium
-```
-
-### 2. Run the EDA Dashboard
-```bash
-streamlit run Tokyo_SmartCity_App.py
-```
-
-### 3. Run the ML Insights App
-```bash
-streamlit run Tokyo_SmartCity_ML_App.py
-```
-
----
 
 ## 📊 App 1 — Tokyo Smart City Dashboard (EDA)
 
